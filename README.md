@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **honggilgim/honggilgim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Welocome to Honggilgim github 👋
-[![Build Status](https://img.shields.io/github/followers/honggilgim?style=social)
+[![Build Status](https://img.shields.io/github/followers/honggilgim?style=social) [![Build Status](https://img.shields.io/github/stars/honggilgim?style=social) [![Build Status]()
 
 ## 🔭 Stack 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,4 +22,4 @@ Here are some ideas to get you started:
 
 ## [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhonggilgim%2Fhit-counter&count_bg=%2300EFD6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=true)](https://hits.seeyoufarm.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/honggilgim/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honggilgim&langs_count=8)](https://github.com/honggilgim/github-readme-stats)
