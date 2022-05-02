@@ -25,3 +25,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honggilgim&langs_count=8)](https://github.com/honggilgim/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honggilgim)](https://github.com/anuraghazra/github-readme-stats)
+
+
+햇병아리 개발자입니다.
