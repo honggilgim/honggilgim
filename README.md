@@ -10,13 +10,17 @@
 
 
 ## [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhonggilgim%2Fhit-counter&count_bg=%2300EFD6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=true)](https://hits.seeyoufarm.com)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honggilgim)](https://github.com/anuraghazra/github-readme-stats)            [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=ghdrlf0911)](https://solved.ac/profile/ghdrlf0911)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honggilgim)](https://github.com/anuraghazra/github-readme-stats)
 
  웹 개발자 지망으로 공부하고 있는 개발자 입니다!
  
- ## 😄 most-used Language
+ ## 😄 나는 누구?
  
+ 이런 언어를 사용합니다!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honggilgim&langs_count=8)](https://github.com/honggilgim/github-readme-stats) 
+
+알고리즘 공부를 하고 있습니다!
+[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=ghdrlf0911)](https://solved.ac/profile/ghdrlf0911)
 
 ## 📁 Project
 
