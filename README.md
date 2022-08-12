@@ -23,10 +23,15 @@ Front-end : ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-th
 Back-end : ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ## [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhonggilgim%2Fhit-counter&count_bg=%2300EFD6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=true)](https://hits.seeyoufarm.com)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honggilgim&langs_count=8)](https://github.com/honggilgim/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honggilgim)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honggilgim)](https://github.com/anuraghazra/github-readme-stats)
 
 희망업무 : 웹 백엔드 개발자
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honggilgim&langs_count=8)](https://github.com/honggilgim/github-readme-stats) 
 
-## 대표 프로젝트 
+
+## 📁 Project
+
+[📑 machine-learing 전복나이 예측 프로세스 -2022 상반기 ](https://github.com/honggilgim/machine_learning_with_colab)
+[📑 book-friend 회원들 간의 책 빌려보기 시스템 - 2022 상반기](https://github.com/honggilgim/book-friend)
+[📑 number-baseball 간단한 숫자야구 프로젝트 - 2021 상반기 ](https://github.com/honggilgim/project_baseball) 
