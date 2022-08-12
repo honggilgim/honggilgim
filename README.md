@@ -13,7 +13,7 @@
 ## [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhonggilgim%2Fhit-counter&count_bg=%2300EFD6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=true)](https://hits.seeyoufarm.com)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=honggilgim)](https://github.com/anuraghazra/github-readme-stats)
 
- 웹 개발자
+ 웹 개발자 지망으로 공부하고 있는 개발자 입니다!
  
  ## 😄 most-used Language
  
