@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=honggilgim&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=honggilgim&fontSize=70)
 
 # Welocome to Honggilgim github 👋
 [![Build Status](https://img.shields.io/github/followers/honggilgim?style=social) [![Build Status](https://img.shields.io/github/stars/honggilgim?style=social) [![Build Status]()
