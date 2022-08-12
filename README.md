@@ -34,3 +34,9 @@ Here are some ideas to get you started:
 [📑 book-friend 회원들 간의 책 빌려보기 시스템 - 2022 상반기](https://github.com/honggilgim/book-friend)
 
 [📑 number-baseball 간단한 숫자야구 프로젝트 - 2021 상반기 ](https://github.com/honggilgim/project_baseball) 
+
+## 📔 study
+
+[📑 Study - 공부한거 기록해두고, 필요할때마다 찾아보기](https://github.com/honggilgim/study)
+
+[📑 algorithm - 푼 문제 기록해두고, 소감 및 해결방법 적어두기](https://github.com/honggilgim/coding-test)
