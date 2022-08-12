@@ -17,9 +17,13 @@
  ## 😄 나는 누구?
  
  이런 언어를 사용합니다!
+ 
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=honggilgim&langs_count=8)](https://github.com/honggilgim/github-readme-stats) 
 
 알고리즘 공부를 하고 있습니다!
+
+
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=ghdrlf0911)](https://solved.ac/profile/ghdrlf0911)
 
 ## 📁 Project
