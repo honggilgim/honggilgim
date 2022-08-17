@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=honggilgim&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome!&fontSize=70)
 
-# Welocome to Honggilgim github 👋
+# Hi my name is Honggilgim 👋
 [![Build Status](https://img.shields.io/github/followers/honggilgim?style=social) [![Build Status](https://img.shields.io/github/stars/honggilgim?style=social) 
 
 ## 🔭 Stack 
