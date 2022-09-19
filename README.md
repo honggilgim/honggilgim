@@ -27,6 +27,9 @@
 [![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=ghdrlf0911)](https://solved.ac/profile/ghdrlf0911)
 
 ## 📁 Project
+[📑 SW해커톤(프론트) 여행취약계층 도우미 프로세스 -2022 하반기 ](https://github.com/honggilgim/9th_Hackerthonㅎ)
+
+[📑 SW해커톤(백엔드) 여행취약계층 도우미 프로세스 -2022 하반기 ](https://github.com/honggilgim/Hackathone_9th_2022_backEnd)
 
 [📑 machine-learing 전복나이 예측 프로세스 -2022 상반기 ](https://github.com/honggilgim/machine_learning_with_colab)
 
