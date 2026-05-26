@@ -11,7 +11,7 @@
 
  자바 스프링 개발자입니다. 현재 4년차의 경력을 가지고 있습니다. 메인스택은 Java,Spring 이며 서브 스택으로 html, react 등의 프론트앤드도 다룰 수 있습니다. 또한 TCP, HTTP와 같은 다양한 통신을 다루는 미들웨어 분야에서 개발을 진행하고 있습니다.
 
- 개인 블로그 : https://velog.io/@honggilgim/posts
+ 개인 블로그 : https://honggilgim.github.io/
  
  ## 😄 나는 누구?
  
